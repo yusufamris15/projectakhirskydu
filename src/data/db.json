@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "",
+      "email": "",
+      "password": "",
+      "date-birth": ""
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "status": ""
+    }
+  ]
+}
